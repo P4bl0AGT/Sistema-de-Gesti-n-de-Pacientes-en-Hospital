@@ -8,7 +8,7 @@ Dado que el sistema está diseñado para ser accesible y fácil de probar, recom
 1. Visita [Repl.it](https://repl.it/).
 2. Crea una nueva cuenta o inicia sesión si ya tienes una.
 3. Una vez en tu dashboard, selecciona "New Repl" y elige "Import from GitHub".
-4. Pega la URL del repositorio: `https://github.com/username/sistema-gestion-pacientes.git`.
+4. Pega la URL del repositorio: `https://github.com/P4bl0AGT/Sistema-de-Gesti-n-de-Pacientes-en-Hospital`.
 5. [Repl.it](http://repl.it/) clonará el repositorio y preparará un entorno de ejecución.
 6. Presiona el botón "Run" para compilar y ejecutar la aplicación.
 
